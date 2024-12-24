@@ -1,0 +1,178 @@
+{
+    "key": "emojis",
+    "value": [
+        {
+            "emoji": "🌍",
+            "category": "travel",
+            "description": "globe showing Europe-Africa"
+        },
+        {
+            "emoji": "✌",
+            "category": "gestures",
+            "description": "victory hand"
+        },
+        {
+            "emoji": "😂",
+            "category": "smileys",
+            "description": "face with tears of joy"
+        },
+        {
+            "emoji": "😝",
+            "category": "smileys",
+            "description": "squinting face with tongue"
+        },
+        {
+            "emoji": "😁",
+            "category": "smileys",
+            "description": "beaming face with smiling eyes"
+        },
+        {
+            "emoji": "😱",
+            "category": "smileys",
+            "description": "face screaming in fear"
+        },
+        {
+            "emoji": "👉",
+            "category": "gestures",
+            "description": "backhand index pointing right"
+        },
+        {
+            "emoji": "🙌",
+            "category": "gestures",
+            "description": "raising hands"
+        },
+        {
+            "emoji": "🍻",
+            "category": "food",
+            "description": "clinking beer mugs"
+        },
+        {
+            "emoji": "🔥",
+            "category": "nature",
+            "description": "fire"
+        },
+        {
+            "emoji": "🌈",
+            "category": "nature",
+            "description": "rainbow"
+        },
+        {
+            "emoji": "☀",
+            "category": "nature",
+            "description": "sun"
+        },
+        {
+            "emoji": "🎈",
+            "category": "objects",
+            "description": "balloon"
+        },
+        {
+            "emoji": "🌹",
+            "category": "nature",
+            "description": "rose"
+        },
+        {
+            "emoji": "💄",
+            "category": "objects",
+            "description": "lipstick"
+        },
+        {
+            "emoji": "🎀",
+            "category": "objects",
+            "description": "ribbon"
+        },
+        {
+            "emoji": "⚽",
+            "category": "activities",
+            "description": "soccer ball"
+        },
+        {
+            "emoji": "🎾",
+            "category": "activities",
+            "description": "tennis"
+        },
+        {
+            "emoji": "🏁",
+            "category": "flags",
+            "description": "chequered flag"
+        },
+        {
+            "emoji": "😡",
+            "category": "smileys",
+            "description": "pouting face"
+        },
+        {
+            "emoji": "👿",
+            "category": "smileys",
+            "description": "angry face with horns"
+        },
+        {
+            "emoji": "🐻",
+            "category": "animals",
+            "description": "bear"
+        },
+        {
+            "emoji": "🐶",
+            "category": "animals",
+            "description": "dog face"
+        },
+        {
+            "emoji": "🐬",
+            "category": "animals",
+            "description": "dolphin"
+        },
+        {
+            "emoji": "🐟",
+            "category": "animals",
+            "description": "fish"
+        },
+        {
+            "emoji": "🍀",
+            "category": "nature",
+            "description": "four leaf clover"
+        },
+        {
+            "emoji": "👀",
+            "category": "people",
+            "description": "eyes"
+        },
+        {
+            "emoji": "🚗",
+            "category": "travel",
+            "description": "automobile"
+        },
+        {
+            "emoji": "🍎",
+            "category": "food",
+            "description": "red apple"
+        },
+        {
+            "emoji": "💝",
+            "category": "symbols",
+            "description": "heart with ribbon"
+        },
+        {
+            "emoji": "💙",
+            "category": "symbols",
+            "description": "blue heart"
+        }
+    ],
+    "metadata": {
+        "version": "1.0",
+        "lastUpdated": "2024-01-17",
+        "categories": [
+            "smileys",
+            "people",
+            "animals",
+            "nature",
+            "food",
+            "activities",
+            "travel",
+            "objects",
+            "symbols",
+            "flags",
+            "gestures"
+        ],
+        "totalCount": 30
+    }
+}
